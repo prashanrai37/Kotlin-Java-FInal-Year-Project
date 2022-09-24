@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Timed</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="help_doze_mode">Why are my task reminders not getting reported on time or not getting reported at all ?</string>
+    <string name="help_doze_mode_answer">Please check your battery setting and permissions setting on your phone.</string>
+    <string name="help_repeate_interval_que">How do I specify a custom repeat interval for my task ?</string>
+    <string name="help_repeate_interval_answer">When you create a new task or edit an existing one, tap the "Repeat" setting".</string>
+    <string name="help_contact_que">Didn\'t find the answer to your question?</string>
+    <string name="help_contact_answer">The best option for you would be to contact us, you can find the contact information on the participation sheet. </string>
+
+    <string name="google_ads_application_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="google_ads_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

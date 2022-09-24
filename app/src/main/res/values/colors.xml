@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#3754FF</color>
+    <color name="primary_dark_alt">#060B2B</color>
+    <color name="primary_light">#E91E63</color>
+    <color name="primary_light_alt">#FFC800</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#a1a1a1</color>
+    <color name="dark_gray">#393839</color>
+    <color name="white_transparent">#26FFFFFF</color>
+    <color name="pink_card_color">#F8A6CA</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF6500 </color>
+</resources>
